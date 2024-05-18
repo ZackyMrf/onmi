@@ -9,9 +9,9 @@
 - https://t.me/AirDropFamilyIDN
 
 ```
-git clone https://github.com/AirDropFamilyIDN/finulab.git
-cd finulab
+git clone https://github.com/AirDropFamilyIDN/onmi.git
+cd onmi
 pip install requests
-python reff.py
+python autoreff.py
 
 ```
